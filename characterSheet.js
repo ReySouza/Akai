@@ -414,6 +414,7 @@ $('#addWeaponForm').submit(function (event) {
     type: weaponType,
     damage: $('#weapondamage').val(),
     attack: $('#weaponAttack').val(),
+    penalty: $('#weaponPenalty').val(),
   }
 
   data.weapons.push(weapon)
@@ -467,6 +468,7 @@ $('#addExpertise2Form').submit(function (event) {
     damage: $('#expertise2Damage').val(),
     time: $('#expertise2Time').val(),
     duration: $('#expertise2Duration').val(),
+    penalty: $('#expertise2Penalty').val(),
     description: $('#expertise2Description').val(),
     
   }
@@ -641,6 +643,7 @@ function addWeaponToTable(weapon, id) {
         <td>${weapon.type}</td>
         <td>${weapon.damage}</td>
         <td>${weapon.attack}</td>
+        <td>${weapon.penalty}</td>
     </tr>`)
   $('table#weapons').append(newWeapon)
 }
@@ -672,6 +675,7 @@ function addExpertise2ToTable(expertise2, id) {
         <td>${expertise2.damage}</td>
         <td>${expertise2.time}</td>
         <td>${expertise2.duration}</td>
+        <td>${expertise2.penalty}</td>
         <td>${expertise2.description}</td>
     </tr>`)
   $('table#expertise2').append(newexpertise2)
