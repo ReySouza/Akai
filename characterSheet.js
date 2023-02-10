@@ -735,12 +735,6 @@ hamburger.addEventListener('click', ()=>{
       document.getElementById("outputDisplay").innerHTML = "Output: " + output;
     }
 
-
-  const button = document.querySelector('.login-button');
-  button.addEventListener('click', function() {
-    window.location.href = 'https://reysouza.github.io/Akari/';
-  });
-
 function toggleSidebar() {
   var sidebar = document.getElementById("mySidebar");
   if (sidebar.style.width === "250px") {
