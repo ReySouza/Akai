@@ -731,7 +731,6 @@ hamburger.addEventListener('click', ()=>{
       // Perform the conversion
       var output = input / 3;
       // Display the results
-      document.getElementById("inputDisplay").innerHTML = "Input: " + input;
       document.getElementById("outputDisplay").innerHTML = "Output: " + output;
     }
 
