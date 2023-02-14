@@ -156,7 +156,7 @@ const data = {
       time: '1 turno',
       duration: '1 turno',
       penalty: '+40',
-      description: 'Uma corrente de vento surge ao cortar com sua espada dando 3d6 de dano, qualquer criatura que for acertada deve suceder em um teste de STR+1 ou tomar 2d6 de dano a mais, para cada ponto de esoterica que você gastar, você pode tornar este teste mais dificil  ',
+      description:  'Uma corrente de vento incisiva sai de sua espada dando 3d6 de dano, ao fazer um corte, qualquer criatura que você acertar terá que fazer um teste de STR+1, tomando 2d6 de dano adicional ao falhar no teste, ou metade no caso de sucesso. <br> Para cada 1 ponto de Esoterica que gastar, você terá poderá adicionar -1 ao teste do alvo',
     },
     {
       name: 'Angirasa Veda',
