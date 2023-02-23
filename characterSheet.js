@@ -876,22 +876,10 @@ function closeSidebar() {
         content = "";
         break;
       case "O Caminho para Yomotsu-Hirasaka":
-        content = "";
+        content = "Gasto: 4 <br> Requisito: Nenhum <br> Yomotsu-Hirasaka é conhecido por ser o portal entre o mundo dos vivos e dos mortos, ele se manifesta de diversas formas diferentes, rios, portais e mausoléus. Seguir o caminho do mundo dos mortes envolve a passagem pelo vale da reconsideração, uma viagem repleta de perigos, com demônios a espreita para roubar a almas daqueles que fazem a viagem, mas também é uma viagem repleta de aprendizados e reflexões sobre erros passados <br> Ao comprar este foco, você pode obter os efeitos da sua moralidade Humana com apenas 57 pontos ao invés de 60";
         break;
       case "Clareando os sentidos":
-        content = "";
-        break;
-      case "Um unico pensamento e infinitos kalpas":
-        content = "";
-        break;
-      case "Espírito Divino":
-        content = "";
-        break;
-      case "Retribuição Carmica":
-        content = "";
-        break;
-      case "Mariposa Venenosa":
-        content = "";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Desilusão Corpórea <br> Depois que Izanagi escapou de sua irmã no mundo dos mortos, ele desceu para uma cachoeira próxima e realizou um ritual chamado Misogi, neste ritual ele se banhou para tirar as impurezas de Yomi e assim clarear sua mente e seus sentidos. Este ritual foi essencial pois permitiu que Tsukuyomi, Susanoo e Amaterasu pudessem nascer <br> Ao comprar este foco, você poderá realizar este mesmo ritual, você apenas precisa achar um corpo de água grande o suficiente e se banhar nele, se suceder, os efeitos da sua moralidade atual serão desfeitos e você ficará com exatamente 0 pontos ";
         break;
       case "Sofrimento Eterno":
         content = "";
@@ -905,9 +893,6 @@ function closeSidebar() {
       case "Morte um homem honesto":
         content = "";
         break;
-      case "Espada dos sete reinos":
-        content = "";
-        break;
       case "Caminho do templo de Hirokawa":
         content = "";
         break;
@@ -918,30 +903,18 @@ function closeSidebar() {
         content = "";
         break;
       case "Ecos de Inclemência":
-        content = "";
+        content = "Gasto: 4 <br> Requisito: Nenhum <br> Você desrespeitou o ciclo natural das coisas, sua insistência em retornar ao mundo dos mortos enfureceu não apenas o Yama como toda sua legião de Onis e Shinigamis, a partir deste ponto, você será caçado e perseguido por criaturas nunca vistas antes. Se você pretende permanecer vivo, você deve abraçar a pós-morte e sobreviver a todo custo <br> Ao comprar este foco, você poderá atingir os efeitos da sua moralidade Youkai com -57 pontos ao invés de -60";
         break;
       case "Eternidade na escuridão":
         content = "";
         break;
       case "Desilusão Corporea":
-        content = "";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Clareando os Sentidos <br> <br> Ao comprar este foco, você  ";
         break;
       case "Sinais da morte":
         content = "";
         break;
       case "Vicissitude circular eterna":
-        content = "";
-        break;
-      case "Morte do lar":
-        content = "";
-        break;
-      case "Lei da mortalidade":
-        content = "";
-        break;
-      case "Anti-Alma":
-        content = "";
-        break;
-      case "Alma Vagante":
         content = "";
         break;
       default:
