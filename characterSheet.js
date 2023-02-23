@@ -785,14 +785,164 @@ function closeSidebar() {
   function updateSidebarContent(title) {
     let content;
     switch (title) {
-      case "A Lenda da Guerreira que Celebra a Maidono":
-        content = "This is some custom content for the 'A Lenda da Guerreira que Celebra a Maidono' section.";
+      case "A Lenda de uma alma irresoluta":
+        content = "";
         break;
-      case "A Verdadeira Face do Deus Secreto":
-        content = "This is some custom content for the 'A Verdadeira Face do Deus Secreto' section.";
+      case "A verdadeira face do deus secreto":
+        content = "";
         break;
-      case "Fé Nativa em meio a terra morta":
-        content = "This is some custom content for the 'Fé Nativa em meio a terra morta' section.";
+      case "Pétalas de cerejeira negras como tinta":
+        content = "";
+        break;
+      case "Repositório em Hirokawa":
+        content = "";
+        break;
+      case "Alma Florida":
+        content = "";
+        break;
+      case "Caminho da reconsideração":
+        content = "";
+        break;
+      case "Memórias Perfeitas":
+        content = "";
+        break;
+      case "Caminho de Tao":
+        content = "";
+        break;
+      case "Parinirvana Falsa":
+        content = "";
+        break;
+      case "Recitação do Diabo":
+        content = "";
+        break;
+      case "Olhos de Brahma":
+        content = "";
+        break;
+      case "Higan roxa se mostra tarde":
+        content = "";
+        break;
+      case "Montanha de agulhas em um inferno abandonado":
+        content = "";
+        break;
+      case "Sonho Imortal":
+        content = "";
+        break;
+      case "Maldição de Tsuki-Iwakasa":
+        content = "";
+        break;
+      case "O Templo de Metsuzai é destruido":
+        content = "";
+        break;
+      case "Pedido Impossivel: Pele do rato de fogo":
+        content = "";
+        break;
+      case "Shichiseiken e o pacto secreto":
+        content = "";
+        break;
+      case "O Homem de Qi se preocupa com a terra":
+        content = "";
+        break;
+      case "As crianças malucas saltam e dançam":
+        content = "";
+        break;
+      case "Hyakki Yagyo":
+        content = "";
+        break;
+      case "Maldição Celestial":
+        content = "";
+        break;
+      case "Dança de mascaras com coração vazio":
+        content = "";
+        break;
+      case "Esfera armilar de Ikagura Dera":
+        content = "";
+        break;
+      case "Desessete Artigos":
+        content = "";
+        break;
+      case "Caminho do Tengu":
+        content = "";
+        break;
+      case "Vento Arrebatador":
+        content = "";
+        break;
+      case "Criatura Oca":
+        content = "";
+        break;
+      case "Dimensão de Xu-Fu":
+        content = "";
+        break;
+      case "Temperamento Espiritual":
+        content = "";
+        break;
+      case "O Caminho para Yomotsu-Hirasaka":
+        content = "";
+        break;
+      case "Clareando os sentidos":
+        content = "";
+        break;
+      case "Um unico pensamento e infinitos kalpas":
+        content = "";
+        break;
+      case "Espírito Divino":
+        content = "";
+        break;
+      case "Retribuição Carmica":
+        content = "";
+        break;
+      case "Mariposa Venenosa":
+        content = "";
+        break;
+      case "Sofrimento Eterno":
+        content = "";
+        break;
+      case "Obsessão com o mundo futuro":
+        content = "";
+        break;
+      case "Vitima de Hourai":
+        content = "";
+        break;
+      case "Morte um homem honesto":
+        content = "";
+        break;
+      case "Espada dos sete reinos":
+        content = "";
+        break;
+      case "Caminho do templo de Hirokawa":
+        content = "";
+        break;
+      case "Caminho de redenção":
+        content = "";
+        break;
+      case "Caminho de justiça":
+        content = "";
+        break;
+      case "Ecos de Inclemência":
+        content = "";
+        break;
+      case "Eternidade na escuridão":
+        content = "";
+        break;
+      case "Desilusão Corporea":
+        content = "";
+        break;
+      case "Sinais da morte":
+        content = "";
+        break;
+      case "Vicissitude circular eterna":
+        content = "";
+        break;
+      case "Morte do lar":
+        content = "";
+        break;
+      case "Lei da mortalidade":
+        content = "";
+        break;
+      case "Anti-Alma":
+        content = "";
+        break;
+      case "Alma Vagante":
+        content = "";
         break;
       default:
         content = "This is some default content for an undefined section.";
