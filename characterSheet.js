@@ -786,64 +786,43 @@ function closeSidebar() {
     let content;
     switch (title) {
       case "A Lenda de uma alma irresoluta":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "A verdadeira face do deus secreto":
         content = "Gasto: Livre <br> Requisito: Nenhum <br> No antigo Mausoléu Umebachi-Goryo, na vila destruída de Taishi, vocês fizeram uma descoberta incrivel, vocês libertaram uma nova força ao mundo, o Deus Secreto, absoluto em seu poder e supremo em sua sagacidade estará cada vez mais próximo de vocês, sintam seu poder correndo por tuas veias e vejam a natureza respirar e a energia se movimentar ";
         break;
       case "Pétalas de cerejeira negras como tinta":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
         break;
       case "Repositório em Hirokawa":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
         break;
       case "Alma Florida":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
         break;
       case "Caminho da reconsideração":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
         break;
       case "Memórias Perfeitas":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
         break;
       case "Caminho de Tao":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
         break;
       case "Parinirvana Falsa":
-        content = "";
-        break;
-      case "Recitação do Diabo":
-        content = "";
-        break;
-      case "Olhos de Brahma":
-        content = "";
-        break;
-      case "Higan roxa se mostra tarde":
-        content = "";
-        break;
-      case "Montanha de agulhas em um inferno abandonado":
-        content = "";
-        break;
-      case "Sonho Imortal":
-        content = "";
-        break;
-      case "Maldição de Tsuki-Iwakasa":
-        content = "";
-        break;
-      case "O Templo de Metsuzai é destruido":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
         break;
       case "Pedido Impossivel: Pele do rato de fogo":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
         break;
       case "Shichiseiken e o pacto secreto":
         content = "Gasto: Livre <br> Requisito: Traduzir os documentos encontrados no Mausoléu <br><br> Finalmente o nome verdadeiro do Deus secreto foi revelado, porém ainda não é possível determinar a razão para ele estar se envolvendo com a Shichiseiken e o Principe Shotoku, é necessário investigar mais a fundo";
         break;
       case "O Homem de Qi se preocupa com a terra":
-        content = "";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> <br> Ao comprar este foco e colocar a máscara de Uba, você pode emitir uma aura de melancolia profunda. Todos em um raio de 20ft. devem fazer um teste de VON-2 para perceber a aura e VON-1 para resistir a ela. Esta aura de Melancolia irá tirar a energia das pessoas e torna-las mais frágeis e indefesas";
         break;
       case "As crianças malucas saltam e dançam":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Conhecer os assistentes do Deus Secreto <br> Você descobriu que o Deus Secreto sempre vem acompanhado de assistentes, você não os conhece, nem sabe qual é sua origem, mas você sabe que estes assistentes atuam como extensões de seu poder em seu mundo, eles possuem um controle impressionante sobre a energia que entra e sai de todas as criaturas, incluindo aquela energia sazonal <br> Ao comprar este foco, você lançará suas máscaras em direção ao oponente, uma corrente de energia espiritual as seguirá dando dano e alterando as emoções do alvo ";
         break;
       case "Hyakki Yagyo":
         content = "Gasto: Livre <br> Requisito: Nenhum <br> Pouco antes de vocês se encontrarem, um livro chamado Shūgaishō, cujo autor é desconhecido, continha instruções sobre como sobreviver ao Hyakki Yagyo, caso ele viesse a ocorrer. A instrução é não sair de casa em hipotése alguma e aqueles que ouvirem o desfile, devem conjurar estas palavras <br><br> KA-TA-SHI-HA-YA, E-KA-SE-NI-KU-RI-NI, TA-ME-RU-SA-KE, TE-E-HI, A-SHI-E-HI, WA-RE-SHI-KO-NI-KE-RI. Talvez seja tarde demais para isso";
@@ -861,19 +840,13 @@ function closeSidebar() {
         content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Muito ainda é desconhecido sobre o princípe imperial e seus acompanhantes, ele viveu cerca de 1000 anos antes de vocês então muitos de seus feitos se tornaram lendas, ele é adorado como um Deus em diversos templos do Shinto. Uma dessas lendas envolve a habilidade dele de ouvir 10 pessoas conversando ao mesmo tempo e responder cada um individualmente com uma clareza surpreendente";
         break;
       case "Caminho do Tengu":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Quando o Deus Hindu Mara foi trazido para o Japão, ele foi traduzido como Tenma e associado ao Youkai Tengu. A origem deste Youkai está associada a monges que viviam nas regiões próximas da montanha e com poderes relacionados ao vento ";
         break;
       case "Vento Arrebatador":
-        content = "";
-        break;
-      case "Criatura Oca":
-        content = "";
-        break;
-      case "Dimensão de Xu-Fu":
-        content = "";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Um arte";
         break;
       case "Temperamento Espiritual":
-        content = "";
+        content = "Gasto: 4 PF <br> Requisito: Conhecer o clã Niwi <br> ";
         break;
       case "O Caminho para Yomotsu-Hirasaka":
         content = "Gasto: 4 <br> Requisito: Nenhum <br> Yomotsu-Hirasaka é conhecido por ser o portal entre o mundo dos vivos e dos mortos, ele se manifesta de diversas formas diferentes, rios, portais e mausoléus. Seguir o caminho do mundo dos mortes envolve a passagem pelo vale da reconsideração, uma viagem repleta de perigos, com demônios a espreita para roubar a almas daqueles que fazem a viagem, mas também é uma viagem repleta de aprendizados e reflexões sobre erros passados <br> Ao comprar este foco, você pode obter os efeitos da sua moralidade Humana com apenas 57 pontos ao invés de 60";
