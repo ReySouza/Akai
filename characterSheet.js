@@ -893,7 +893,7 @@ function closeSidebar() {
       case "Vitima de Hourai":
         content = "Gasto: 3 <br> Requisito: Nenhum <br> As vezes você pensa se o que ocorreu envolvendo você e o Takamura pode ter sido um prelúdio de tudo isso que ocorreu, aquele youkai seria apenas um dos vários que você iria encontrar em sua jornada. Se isso for o caso, você se tornou uma vítima de Hourai não apenas uma vez, como duas, talvez mais do que qualquer, você possui razão para tentar acabar com tudo isso";
         break;
-      case "Morte de um homem honesto":
+      case "Morte um homem honesto":
         content = "Gasto: Livre <br> Requisito: Retornar para Asakura <br> Muita coisa ocorreu desde que você deixou sua vila, você se tornou completamente irreconhecível, você teme que a reação da população a sua vinda seja ainda mais hostil do que quando você deixou o local, ainda assim, você precisa retornar, os sinais estarão claros e você saberá a razão ";
         break;
       case "Caminho do templo de Hirokawa":
