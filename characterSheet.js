@@ -789,7 +789,7 @@ function closeSidebar() {
         content = "";
         break;
       case "A verdadeira face do deus secreto":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> No antigo Mausoléu Umebachi-Goryo, na vila destruída de Taishi, vocês fizeram uma descoberta incrivel, vocês libertaram uma nova força ao mundo, o Deus Secreto, absoluto em seu poder e supremo em sua sagacidade estará cada vez mais próximo de vocês, sintam seu poder correndo por tuas veias e vejam a natureza respirar e a energia se movimentar ";
         break;
       case "Pétalas de cerejeira negras como tinta":
         content = "";
@@ -837,7 +837,7 @@ function closeSidebar() {
         content = "";
         break;
       case "Shichiseiken e o pacto secreto":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Traduzir os documentos encontrados no Mausoléu <br><br> Finalmente o nome verdadeiro do Deus secreto foi revelado, porém ainda não é possível determinar a razão para ele estar se envolvendo com a Shichiseiken e o Principe Shotoku, é necessário investigar mais a fundo";
         break;
       case "O Homem de Qi se preocupa com a terra":
         content = "";
@@ -846,10 +846,10 @@ function closeSidebar() {
         content = "";
         break;
       case "Hyakki Yagyo":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> Pouco antes de vocês se encontrarem, um livro chamado Shūgaishō, cujo autor é desconhecido, continha instruções sobre como sobreviver ao Hyakki Yagyo, caso ele viesse a ocorrer. A instrução é não sair de casa em hipotése alguma e aqueles que ouvirem o desfile, devem conjurar estas palavras <br><br> KA-TA-SHI-HA-YA, E-KA-SE-NI-KU-RI-NI, TA-ME-RU-SA-KE, TE-E-HI, A-SHI-E-HI, WA-RE-SHI-KO-NI-KE-RI. Talvez seja tarde demais para isso";
         break;
       case "Maldição Celestial":
-        content = "";
+        content = "Gasto: 2 PF (Coletivo) <br> Requisito: Nenhum <br> Não é possível que tudo tenha sido uma coincidência, o roubo da Shichiseiken e o ataque em Naniwa devem estar relacionados de alguma forma, tudo foi planejado, a vinda do imperador, o fluxo de Youkais nunca vistos antes no dia do festival de Tsukimi, o festival da Lua. Alguma coisa está prestes a acontecer e vocês são os catalisadores para o cataclisma";
         break;
       case "Dança de mascaras com coração vazio":
         content = "";
@@ -885,10 +885,10 @@ function closeSidebar() {
         content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Vicissitude circular eterna <br> Karma é um conceito muito importante dentro do Budismo, ele está muito relacionado com a ideia da lei do retorno e implica que todas as ações e decisões feitas durante a vida de uma pessoa, mesmo aquelas mais insignificantes de todas, terão algum efeito maior em sua vida. Este conceito é particularmente importante dentro da cosmologia Budista para explorar os efeitos do comportamente e das ações de alguma pessoa quando ela é julgada no momento de sua morte <br> Ao comprar este foco, enquanto estiver sob os efeitos da sua moralidade humana, qualquer ataque feito contra você que te errar poderá ser contra-atacado. Apenas suceda em um teste de STR e você dará o seu dano bônus";
         break;
       case "Sofrimento Eterno":
-        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Sinais da Morte <br> <br> Ao comprar este foco, você poderá atingir os efeitos da moralidade Humana com apenas 50 pontos ao invés de 57 ";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Sinais da Morte <br> A verdade é que nenhum sofrimento precisa ser verdadeiramente eterno, mesmo aquelas almas torturadas no inferno eventualmente aprendem a conviver, afinal de contas, o ciclo de renascimento não ocorre apenas uma vez, ele é verdadeiramente eterno e está sujeito ao julgamento muitas vezes parcial de um rei tirano<br> Ao comprar este foco, você poderá atingir os efeitos da moralidade Humana com apenas 50 pontos ao invés de 57 ";
         break;
       case "Obsessão com o mundo futuro":
-        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Eternidade na Escuridão <br> <br> Ao comprar este foco, você poderá realizar um teste de IQ e escolher um dos dois efeitos, se você suceder no teste, você poderá assumir a moralidade escolhida durante 1d4 turnos. Se falhar, você será forçado a escolher o efeito contrário ";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Eternidade na Escuridão <br> O Samsara e o sofrimento associado ao renascimento envolve muitos dos receios que a humanidade possui sobre o seu renascimento, é uma ansiedade que vai muito além de um simples medo da morte, é algo primitivo, que condiciona a pessoa a carregar sua vida com medo <br> Ao comprar este foco, você poderá realizar um teste de IQ e escolher um dos dois efeitos, se você suceder no teste, você poderá assumir a moralidade escolhida durante 1d4 turnos. Se falhar, você será forçado a escolher o efeito contrário ";
         break;
       case "Vitima de Hourai":
         content = "";
@@ -909,13 +909,13 @@ function closeSidebar() {
         content = "Gasto: 4 <br> Requisito: Nenhum <br> Você desrespeitou o ciclo natural das coisas, sua insistência em retornar ao mundo dos mortos enfureceu não apenas o Yama como toda sua legião de Onis e Shinigamis, a partir deste ponto, você será caçado e perseguido por criaturas nunca vistas antes. Se você pretende permanecer vivo, você deve abraçar a pós-morte e sobreviver a todo custo <br> Ao comprar este foco, você poderá atingir os efeitos da sua moralidade Youkai com -57 pontos ao invés de -60";
         break;
       case "Eternidade na escuridão":
-        content = "";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Obsessão com o mundo futuro <br> <br. Ao comprar este foco, você ";
         break;
       case "Desilusão Corporea":
         content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Clareando os Sentidos <br> Você sente uma certa desconfiança entre suas duas personalidades, vocês sabem que o corpo que compartilham possuem traços Youkai clarissimos, vocês só não conseguem apontar quem trouxe esses traços, esta desconfiança poderá realmente machucar sua habilidade de cooperar  <br> Ao comprar este foco, você poderá obter os sentidos de um Youkai, suceda em um teste de HT e durante 1d6 turnos, você ganhará dois níveis de visão noturna, clarissenciência de sentido de vibração ";
         break;
       case "Sinais da morte":
-        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Sofrimento Eterno <br> <br> Ao comprar este foco, você poderá atingir os efeitos da moralidade Youkai com apenas -50 pontos ao invés de -57 pontos";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Sofrimento Eterno <br> Quando uma deva, um celestial de acordo com o Budismo, está prestes a morrer, ele tipicamente mostra 5 sinais claros. Suas vestes ficam sujas, ele começa a suar profusamente, o seu brilho some e ele se torna incapaz de aproveitar todas as maravilhas do céu <br> Ao comprar este foco, você poderá atingir os efeitos da moralidade Youkai com apenas -50 pontos ao invés de -57 pontos";
         break;
       case "Vicissitude circular eterna":
         content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Retribuição Carmica <br> Vicissitude circular é um termo utilizado na cosmologia Budista para se referir a um fenomeno que pode ser até contraditório para quem não é iniciado. Apesar do universo e a natureza do renascimento serem ambos cíclicos, eles também são simultaneamente imprevisiveis e caóticos, alguns atribuem isso ao temperamento do Yama que constantemente influencia seu julgamento <br> Ao comprar este foco, quando você estiver sob o efeito da moralidade Youkai, você poderá  ";
