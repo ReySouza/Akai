@@ -786,34 +786,31 @@ function closeSidebar() {
     let content;
     switch (title) {
       case "A Lenda de uma alma irresoluta":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br>";
         break;
       case "A verdadeira face do deus secreto":
         content = "Gasto: Livre <br> Requisito: Nenhum <br> No antigo Mausoléu Umebachi-Goryo, na vila destruída de Taishi, vocês fizeram uma descoberta incrivel, vocês libertaram uma nova força ao mundo, o Deus Secreto, absoluto em seu poder e supremo em sua sagacidade estará cada vez mais próximo de vocês, sintam seu poder correndo por tuas veias e vejam a natureza respirar e a energia se movimentar ";
         break;
       case "Pétalas de cerejeira negras como tinta":
-        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> O poeta Saigyou escreveu em um de seus poemas 生者必滅 que signifca algo como Todas as coisas devem morrer, é o destino. Esta pequena frase carrega um grande peso quando consideramos que sua primeira aparição foi Hogen Monogatari, uma antiga recontagem da rebelião de Hogen, considerada como um dos piores massacres do Japão Feudal e um dos principais abalos a família imperial Japonesa que em menos de 30 anos seria derrubada  <br> Ao comprar este foco, você ganha 5 pontos sazonais";
         break;
       case "Repositório em Hirokawa":
-        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>  <br> Ao comprar este foco, você ganhará um toque de energia em seus dedos, toda árvore ou planta que você tocar terá um crescimento acelerado, toda vez que você tocar uma pessoa doente, você sentirá que ela começará a melhorar logo";
         break;
       case "Alma Florida":
-        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Ao comprar este foco, ";
         break;
       case "Caminho da reconsideração":
-        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Ao comprar este foco, ";
         break;
       case "Memórias Perfeitas":
-        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Você acredita que pode recuperar sua vida novamente, diversos feiticeiros pelo Japão clamam ter contatos com criaturas e mundos estranhos, eles também clamam conseguir visitar estes mundos e usar sua magia. Um destes mundos é Makai, um antigo círculo do Inferno e que foi abandonado pelo Yama para ser dominado por demônios, as criaturas que lá habitam são extremamente poderosas e usufruem de todo poder mágico. Você acredita que existe a possibilidade de usar essa mágia e trazer você e Takamura de volta a vida sem que o Yama consiga perceber";
         break;
       case "Caminho de Tao":
-        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
-        break;
-      case "Parinirvana Falsa":
-        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
+        content = "Gasto: Livre <br> Requisito: Avançar na história <br> Uma nova religião tem se espalhado pelo Japão, você tem observado diversos movimentos clamando por uma terceira via. Esta doutrina teria vindo do oeste e teria sido endorsado por alguns imperadores passados.";
         break;
       case "Pedido Impossivel: Pele do rato de fogo":
-        content = "Gasto: 2 PF <br> Requisito: Nenhum <br>";
+        content = "Gasto: Livre <br> Requisito: Encontrar a residência do Rato de Fogo <br> Na fantástica história da Princesa Kaguya, ela exigiu que seus pretendentes viajassem por todos os cantos do planeta atrás de items mágicos, ela sabia que os homens não sobreviveriam a viagem e que os itens poderiam até mesmo não existir, um destes items é o pelo do Rato de Fogo, uma criatura que viveria em regiões com muita energia mágica, seu pelo seria completamente intocado por fogo e até mesmo magma, além de possuir uma série de outras propriedades mágicas. Você acredita que consegue encontrar a localização deste artefato";
         break;
       case "Shichiseiken e o pacto secreto":
         content = "Gasto: Livre <br> Requisito: Traduzir os documentos encontrados no Mausoléu <br><br> Finalmente o nome verdadeiro do Deus secreto foi revelado, porém ainda não é possível determinar a razão para ele estar se envolvendo com a Shichiseiken e o Principe Shotoku, é necessário investigar mais a fundo";
@@ -888,7 +885,7 @@ function closeSidebar() {
         content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Retribuição Carmica <br> Vicissitude circular é um termo utilizado na cosmologia Budista para se referir a um fenomeno que pode ser até contraditório para quem não é iniciado. Apesar do universo e a natureza do renascimento serem ambos cíclicos, eles também são simultaneamente imprevisiveis e caóticos, alguns atribuem isso ao temperamento do Yama que constantemente influencia seu julgamento <br> Ao comprar este foco, quando você estiver sob o efeito da moralidade Youkai, você poderá  ";
         break;
       default:
-        content = "This is some default content for an undefined section.";
+        content = "Se você está lendo isso, este foco está trancado (ou você achou um bug no site)";
     }
     sidebar.innerHTML = `
       <a href="#" class="closebtn" onclick="toggleNav()">&times;</a>
