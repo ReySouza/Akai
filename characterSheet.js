@@ -852,13 +852,13 @@ function closeSidebar() {
         content = "Gasto: 2 PF (Coletivo) <br> Requisito: Nenhum <br> Não é possível que tudo tenha sido uma coincidência, o roubo da Shichiseiken e o ataque em Naniwa devem estar relacionados de alguma forma, tudo foi planejado, a vinda do imperador, o fluxo de Youkais nunca vistos antes no dia do festival de Tsukimi, o festival da Lua. Alguma coisa está prestes a acontecer e vocês são os catalisadores para o cataclisma";
         break;
       case "Dança de mascaras com coração vazio":
-        content = "";
+        content = "Gasto: 4 PF <br> Requisito: Nenhum <br> Hata no Kawakatsu é uma figura famosa dentro do Japão medieval, ele é considerado o pai do Sarugaku, o precursor do Noh moderno. Um dia, o Princípe Shotoku ordenou que Kawakatsu fizesse 66 apresentações de teatro pelo Japão inteiro para apasiguar as multidões e interromper os conflitos civis, ele utilizou 66 máscaras de Noh diferentes que então foram espalhadas pelas ilhas ";
         break;
       case "Esfera armilar de Ikagura Dera":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br> No principal templo habitado pelo princípe Shotoku, Houryuu-ji, existe uma esfera armilar que até a atualidade confunde arqueólogos e especialistas, na epoca em que o globo teria sido construído, conhecimento sobre a natureza esférica da terra simplesmente não existia no Japão, muitos até agora ainda não sabem disso, incluindo vocês. Este globo permanece como um completo paradoxo, uma anomalia temporal";
         break;
       case "Desessete Artigos":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Muito ainda é desconhecido sobre o princípe imperial e seus acompanhantes, ele viveu cerca de 1000 anos antes de vocês então muitos de seus feitos se tornaram lendas, ele é adorado como um Deus em diversos templos do Shinto. Uma dessas lendas envolve a habilidade dele de ouvir 10 pessoas conversando ao mesmo tempo e responder cada um individualmente com uma clareza surpreendente";
         break;
       case "Caminho do Tengu":
         content = "";
@@ -891,25 +891,19 @@ function closeSidebar() {
         content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Eternidade na Escuridão <br> O Samsara e o sofrimento associado ao renascimento envolve muitos dos receios que a humanidade possui sobre o seu renascimento, é uma ansiedade que vai muito além de um simples medo da morte, é algo primitivo, que condiciona a pessoa a carregar sua vida com medo <br> Ao comprar este foco, você poderá realizar um teste de IQ e escolher um dos dois efeitos, se você suceder no teste, você poderá assumir a moralidade escolhida durante 1d4 turnos. Se falhar, você será forçado a escolher o efeito contrário ";
         break;
       case "Vitima de Hourai":
-        content = "";
+        content = "Gasto: 3 <br> Requisito: Nenhum <br> As vezes você pensa se o que ocorreu envolvendo você e o Takamura pode ter sido um prelúdio de tudo isso que ocorreu, aquele youkai seria apenas um dos vários que você iria encontrar em sua jornada. Se isso for o caso, você se tornou uma vítima de Hourai não apenas uma vez, como duas, talvez mais do que qualquer, você possui razão para tentar acabar com tudo isso";
         break;
-      case "Morte um homem honesto":
-        content = "";
+      case "Morte de um homem honesto":
+        content = "Gasto: Livre <br> Requisito: Retornar para Asakura <br> Muita coisa ocorreu desde que você deixou sua vila, você se tornou completamente irreconhecível, você teme que a reação da população a sua vinda seja ainda mais hostil do que quando você deixou o local, ainda assim, você precisa retornar, os sinais estarão claros e você saberá a razão ";
         break;
       case "Caminho do templo de Hirokawa":
-        content = "";
-        break;
-      case "Caminho de redenção":
-        content = "";
-        break;
-      case "Caminho de justiça":
-        content = "";
+        content = "Gasto: 3 <br> Requisito: Acessar o Mt. Katsuragi <br> Dentro do Mt. Katsuragi em um antigo templo, vivia um poeta chamado Saigyou que vivia no período Heiano, ele escrevia sobre diversos temas como solidão, tristeza, de certa forma, sua poesia era ligada a natureza mas completamente destacada do mundo material ";
         break;
       case "Ecos de Inclemência":
         content = "Gasto: 4 <br> Requisito: Nenhum <br> Você desrespeitou o ciclo natural das coisas, sua insistência em retornar ao mundo dos mortos enfureceu não apenas o Yama como toda sua legião de Onis e Shinigamis, a partir deste ponto, você será caçado e perseguido por criaturas nunca vistas antes. Se você pretende permanecer vivo, você deve abraçar a pós-morte e sobreviver a todo custo <br> Ao comprar este foco, você poderá atingir os efeitos da sua moralidade Youkai com -57 pontos ao invés de -60";
         break;
       case "Eternidade na escuridão":
-        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Obsessão com o mundo futuro <br> <br. Ao comprar este foco, você ";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Obsessão com o mundo futuro <br> <br> Ao comprar este foco, você poderá ";
         break;
       case "Desilusão Corporea":
         content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Clareando os Sentidos <br> Você sente uma certa desconfiança entre suas duas personalidades, vocês sabem que o corpo que compartilham possuem traços Youkai clarissimos, vocês só não conseguem apontar quem trouxe esses traços, esta desconfiança poderá realmente machucar sua habilidade de cooperar  <br> Ao comprar este foco, você poderá obter os sentidos de um Youkai, suceda em um teste de HT e durante 1d6 turnos, você ganhará dois níveis de visão noturna, clarissenciência de sentido de vibração ";
