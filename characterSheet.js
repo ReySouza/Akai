@@ -798,10 +798,10 @@ function closeSidebar() {
         content = "Gasto: 2 PF <br> Requisito: Nenhum <br>  <br> Ao comprar este foco, você ganhará um toque de energia em seus dedos, toda árvore ou planta que você tocar terá um crescimento acelerado, toda vez que você tocar uma pessoa doente, você sentirá que ela começará a melhorar logo";
         break;
       case "Alma Florida":
-        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Ao comprar este foco, ";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Ao comprar este foco, você poderá adicionar os efeitos de sua moralidade aos seus ataques sazonais ";
         break;
       case "Caminho da reconsideração":
-        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Ao comprar este foco, ";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Ao comprar este foco, você poderá ";
         break;
       case "Memórias Perfeitas":
         content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Você acredita que pode recuperar sua vida novamente, diversos feiticeiros pelo Japão clamam ter contatos com criaturas e mundos estranhos, eles também clamam conseguir visitar estes mundos e usar sua magia. Um destes mundos é Makai, um antigo círculo do Inferno e que foi abandonado pelo Yama para ser dominado por demônios, as criaturas que lá habitam são extremamente poderosas e usufruem de todo poder mágico. Você acredita que existe a possibilidade de usar essa mágia e trazer você e Takamura de volta a vida sem que o Yama consiga perceber";
@@ -840,10 +840,7 @@ function closeSidebar() {
         content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Quando o Deus Hindu Mara foi trazido para o Japão, ele foi traduzido como Tenma e associado ao Youkai Tengu. A origem deste Youkai está associada a monges que viviam nas regiões próximas da montanha e com poderes relacionados ao vento ";
         break;
       case "Vento Arrebatador":
-        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Um arte";
-        break;
-      case "Temperamento Espiritual":
-        content = "Gasto: 4 PF <br> Requisito: Conhecer o clã Niwi <br> ";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Pelo pouco que você sabe sobre os tengus, você lembra de ter ouvido falar sobre um antigo artefato que eles utilizam para canalizar o poder do vento, este artefato pode ser obtido com algum Tengu, você só precisa achar uma colonia deles";
         break;
       case "O Caminho para Yomotsu-Hirasaka":
         content = "Gasto: 4 <br> Requisito: Nenhum <br> Yomotsu-Hirasaka é conhecido por ser o portal entre o mundo dos vivos e dos mortos, ele se manifesta de diversas formas diferentes, rios, portais e mausoléus. Seguir o caminho do mundo dos mortes envolve a passagem pelo vale da reconsideração, uma viagem repleta de perigos, com demônios a espreita para roubar a almas daqueles que fazem a viagem, mas também é uma viagem repleta de aprendizados e reflexões sobre erros passados <br> Ao comprar este foco, você pode obter os efeitos da sua moralidade Humana com apenas 57 pontos ao invés de 60";
