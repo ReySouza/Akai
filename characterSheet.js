@@ -879,13 +879,16 @@ function closeSidebar() {
         content = "Gasto: 4 <br> Requisito: Nenhum <br> Yomotsu-Hirasaka é conhecido por ser o portal entre o mundo dos vivos e dos mortos, ele se manifesta de diversas formas diferentes, rios, portais e mausoléus. Seguir o caminho do mundo dos mortes envolve a passagem pelo vale da reconsideração, uma viagem repleta de perigos, com demônios a espreita para roubar a almas daqueles que fazem a viagem, mas também é uma viagem repleta de aprendizados e reflexões sobre erros passados <br> Ao comprar este foco, você pode obter os efeitos da sua moralidade Humana com apenas 57 pontos ao invés de 60";
         break;
       case "Clareando os sentidos":
-        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Desilusão Corpórea <br> Depois que Izanagi escapou de sua irmã no mundo dos mortos, ele desceu para uma cachoeira próxima e realizou um ritual chamado Misogi, neste ritual ele se banhou para tirar as impurezas de Yomi e assim clarear sua mente e seus sentidos. Este ritual foi essencial pois permitiu que Tsukuyomi, Susanoo e Amaterasu pudessem nascer <br> Ao comprar este foco, você poderá realizar este mesmo ritual, você apenas precisa achar um corpo de água grande o suficiente e se banhar nele, se suceder, os efeitos da sua moralidade atual serão desfeitos e você ficará com exatamente 0 pontos ";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Desilusão Corpórea <br> Depois que Izanagi escapou de sua irmã no mundo dos mortos, ele desceu para uma cachoeira próxima e realizou um ritual chamado Misogi, neste ritual ele se banhou para tirar as impurezas de Yomi e assim clarear sua mente e seus sentidos. Este ritual foi essencial pois permitiu que Tsukuyomi, Susanoo e Amaterasu pudessem nascer <br> Ao comprar este foco, você poderá realizar este mesmo ritual, você apenas precisa achar um corpo de água grande o suficiente e se banhar nele, faça um teste de HT, se suceder, os efeitos da sua moralidade atual serão desfeitos e você ficará com exatamente 0 pontos ";
+        break;
+      case "Retribuição Carmica":
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Vicissitude circular eterna <br> Karma é um conceito muito importante dentro do Budismo, ele está muito relacionado com a ideia da lei do retorno e implica que todas as ações e decisões feitas durante a vida de uma pessoa, mesmo aquelas mais insignificantes de todas, terão algum efeito maior em sua vida. Este conceito é particularmente importante dentro da cosmologia Budista para explorar os efeitos do comportamente e das ações de alguma pessoa quando ela é julgada no momento de sua morte <br> Ao comprar este foco, enquanto estiver sob os efeitos da sua moralidade humana, qualquer ataque feito contra você que te errar poderá ser contra-atacado. Apenas suceda em um teste de STR e você dará o seu dano bônus";
         break;
       case "Sofrimento Eterno":
-        content = "";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Sinais da Morte <br> <br> Ao comprar este foco, você poderá atingir os efeitos da moralidade Humana com apenas 50 pontos ao invés de 57 ";
         break;
       case "Obsessão com o mundo futuro":
-        content = "";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Eternidade na Escuridão <br> <br> Ao comprar este foco, você poderá realizar um teste de IQ e escolher um dos dois efeitos, se você suceder no teste, você poderá assumir a moralidade escolhida durante 1d4 turnos. Se falhar, você será forçado a escolher o efeito contrário ";
         break;
       case "Vitima de Hourai":
         content = "";
@@ -909,13 +912,13 @@ function closeSidebar() {
         content = "";
         break;
       case "Desilusão Corporea":
-        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Clareando os Sentidos <br> <br> Ao comprar este foco, você  ";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Clareando os Sentidos <br> Você sente uma certa desconfiança entre suas duas personalidades, vocês sabem que o corpo que compartilham possuem traços Youkai clarissimos, vocês só não conseguem apontar quem trouxe esses traços, esta desconfiança poderá realmente machucar sua habilidade de cooperar  <br> Ao comprar este foco, você poderá obter os sentidos de um Youkai, suceda em um teste de HT e durante 1d6 turnos, você ganhará dois níveis de visão noturna, clarissenciência de sentido de vibração ";
         break;
       case "Sinais da morte":
-        content = "";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Sofrimento Eterno <br> <br> Ao comprar este foco, você poderá atingir os efeitos da moralidade Youkai com apenas -50 pontos ao invés de -57 pontos";
         break;
       case "Vicissitude circular eterna":
-        content = "";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Retribuição Carmica <br> Vicissitude circular é um termo utilizado na cosmologia Budista para se referir a um fenomeno que pode ser até contraditório para quem não é iniciado. Apesar do universo e a natureza do renascimento serem ambos cíclicos, eles também são simultaneamente imprevisiveis e caóticos, alguns atribuem isso ao temperamento do Yama que constantemente influencia seu julgamento <br> Ao comprar este foco, quando você estiver sob o efeito da moralidade Youkai, você poderá  ";
         break;
       default:
         content = "This is some default content for an undefined section.";
