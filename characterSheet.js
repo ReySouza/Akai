@@ -786,7 +786,7 @@ function closeSidebar() {
     let content;
     switch (title) {
       case "A Lenda de uma alma irresoluta":
-        content = "A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br> A Morte não é uma escapatória <br>";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> Sobre as ondas, o vento sopra ferozmente, E nesta noite de outono, a lua está escondida. Será que isso reflete os corações das pessoas, que não conseguem ver a luz em meio Gasto: Livre <br> Requisito: Nenhum à agitação ? Diante das incertezas da vida, o coração humano sente dificuldade em encontrar conforto e compreensão, Saigyo questiona se talvez a incapacidade de ver a luz da lua reflita nesta angústia";
         break;
       case "A verdadeira face do deus secreto":
         content = "Gasto: Livre <br> Requisito: Nenhum <br> No antigo Mausoléu Umebachi-Goryo, na vila destruída de Taishi, vocês fizeram uma descoberta incrivel, vocês libertaram uma nova força ao mundo, o Deus Secreto, absoluto em seu poder e supremo em sua sagacidade estará cada vez mais próximo de vocês, sintam seu poder correndo por tuas veias e vejam a natureza respirar e a energia se movimentar ";
